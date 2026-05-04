@@ -1,0 +1,5 @@
+Cliente: Mario | Ciudad: Ciudad de México | Saldo: $5000 | Tipo: Regular
+Cliente: Sandra | Ciudad: San Luis Potosí | Saldo: $12000 | Tipo: VIP
+Cliente: Pedro | Ciudad: Guadalajara | Saldo: $2500 | Tipo: Nuevo
+Cliente: Juan | Ciudad: Monterrey | Saldo: $8200 | Tipo: Regular
+Cliente: Paola | Ciudad: Tijuana | Saldo: $1200 | Tipo: Nuevo
