@@ -7,9 +7,9 @@ def resumen_producto(producto, precio, iva):
 
 productos = [
     {"producto":"Martillo", "precio": 120, "iva": 16},
-    {"producto":"Destornillador", "precio": 90, "iva": 16},
+    {"producto":"Destornillador", "precio": 90, "iva": 0},
     {"producto":"Caja de clavos", "precio": 40, "iva": 16},
-    {"producto":"Taladro", "precio": 920, "iva": 16},
+    {"producto":"Taladro", "precio": 920, "iva": 8},
     {"producto":"Cinta doble cara", "precio": 45, "iva": 16}
 ]
 
